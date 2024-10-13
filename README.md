@@ -1,1 +1,2 @@
-# my-helm-repo
+# My Helm Chart
+helm repo add my-helm-repo 
