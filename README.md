@@ -1,7 +1,7 @@
 # my-helm-repo
 
 ```bash
-helm repo add my-helm-repo https://fineman999.github.io/my-helm-chart/
+helm repo add my-helm-repo https://fineman999.github.io/my-helm-repo/
 helm repo list
 helm repo update
 helm search repo nginx
